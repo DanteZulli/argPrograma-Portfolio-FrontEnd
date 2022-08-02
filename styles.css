@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+img{
+    max-width: 25px;
+}
+.container{
+    display: flex;
+}
+.to-left{
+    margin-right: auto;
+    display: flex;
+}
+.to-right{
+    justify-content: ;
+    
+}
